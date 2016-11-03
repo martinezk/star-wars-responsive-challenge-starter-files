@@ -1,1 +1,10 @@
 /*css main styles*/
+.header{
+	background-color: orange;
+	height: 100px;
+}
+
+.trading-card{
+	border:2px solid orange;
+	height: 300px;
+}
