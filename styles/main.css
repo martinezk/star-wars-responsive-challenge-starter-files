@@ -4,16 +4,13 @@
 	height: 100px;
 	margin-bottom: 40px;
 }
-main .row {
-	margin-bottom: 40px;
-}
+
 .trading-card{
 	border: 1px solid lightgrey;
 	height: 380px;
 }
 
 h1, h2, p {
-	padding-top: 20px;
 	padding-left: 20px;
 	font-family: sans-serif;
 }
@@ -23,4 +20,13 @@ img {
 }
 h1 {
 	font-size: 30px;
+	padding-top: 20px;
+}
+h2 {
+	font-size: 20px;
+	padding-top: 20px;
+}
+p {
+	padding-top: 10px;
+	font-size: 12px;
 }
