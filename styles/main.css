@@ -1,1 +1,32 @@
 /*css main styles*/
+.header{
+	background-color: orange;
+	height: 100px;
+	margin-bottom: 40px;
+}
+
+.trading-card{
+	border: 1px solid lightgrey;
+	height: 380px;
+}
+
+h1, h2, p {
+	padding-left: 20px;
+	font-family: sans-serif;
+}
+
+img {
+	width: 100%;
+}
+h1 {
+	font-size: 30px;
+	padding-top: 20px;
+}
+h2 {
+	font-size: 20px;
+	padding-top: 20px;
+}
+p {
+	padding-top: 10px;
+	font-size: 12px;
+}
